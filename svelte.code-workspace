@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "path": "./svelte-demo"
+    },
+    {
+      "path": "./svelte-app"
+    }
+  ],
+  "settings": {}
+}
